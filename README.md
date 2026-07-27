@@ -25,7 +25,6 @@ The dashboard provides an interactive overview of key metrics and visualizations
 ## Tools & Technologies
 
 - Tableau
-- Microsoft Excel
 - Data Visualization
 - Data Cleaning
 - Dashboard Design
@@ -112,7 +111,7 @@ This chart ranks albums based on the average popularity of their tracks.
 Highest ranked album:
 
 **The Idol Episode 8**
-Average Track Popularity: **91000**
+Average Track Popularity: **91**
 
 **Insight**
 
@@ -213,7 +212,3 @@ spotify-music-trends-analysis/
 
 - LinkedIn: https://linkedin.com/in/hannazan
 - GitHub: https://github.com/hannazan
-
----
-
-If you found this project interesting, feel free to give it a star!# spotify-music-trends-analysis
